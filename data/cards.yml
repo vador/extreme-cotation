@@ -1,0 +1,33 @@
+---
+- title: Moustique
+  icon: icons/moustique.png
+  size_hint: small
+
+- title: Colibri
+  icon: icons/colibri.png
+  size_hint: small
+
+- title: Martre
+  icon: icons/martre.png
+  size_hint: medium
+
+- title: Blaireau
+  icon: icons/blaireau.png
+
+- title: Sanglier
+  icon: icons/sanglier.png
+
+- title: Buffle
+  icon: icons/buffle.png
+
+- title: Sauropode
+  icon: icons/sauropode.png
+
+- title: Pause
+  icon: icons/pause.png
+
+- title: ????
+  icon: icons/scratching-head-monkey.png
+
+- title: Nid de vipères
+  icon: icons/nid-de-viperes.png
