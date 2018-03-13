@@ -2,6 +2,8 @@
 #dpi: 300
 antialias: best
 
+backend: svg
+
 # Text hints are used to show the boundaries of text boxes.
 # Can be enabled/disabled at the command-level, or set globally with `set`
 #text_hint: '#F00'

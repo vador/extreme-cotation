@@ -118,3 +118,11 @@ badge:  # Not Used
   height: 64
   align: center
   valign: middle
+
+backdrop:
+  x: 75
+  y: 100
+  width: 675
+  height: 925
+  align: center
+  valign: middle
